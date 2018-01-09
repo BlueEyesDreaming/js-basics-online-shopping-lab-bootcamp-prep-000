@@ -10,7 +10,8 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- // write your code here
+  // var obj = Object.assign({}, cart, { itemName: itemPrice })
+  // console.log()
 }
 
 function viewCart() {
